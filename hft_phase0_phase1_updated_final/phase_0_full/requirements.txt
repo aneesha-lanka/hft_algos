@@ -1,0 +1,7 @@
+boto3
+kiteconnect
+pandas
+numpy
+scipy
+requests
+websocket-client
